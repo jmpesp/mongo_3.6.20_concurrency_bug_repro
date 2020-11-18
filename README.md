@@ -1,3 +1,5 @@
+![gif showing the bug](https://github.com/jmpesp/mongo_3.6.20_concurrency_bug_repro/blob/main/the_bug.gif)
+
 # Steps to reproduce #
 
 The following assumes:
