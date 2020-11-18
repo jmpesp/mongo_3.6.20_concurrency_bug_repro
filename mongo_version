@@ -1,0 +1,14 @@
+# local fixed version of 3.6.20
+#MONGO_VERSION="debug_mongod"
+
+# bug exists
+MONGO_VERSION="mongo:3.6.20"
+#MONGO_VERSION="mongo:4.0.0"
+#MONGO_VERSION="mongo:4.0.1"
+
+# haven't reproduced yet
+#MONGO_VERSION="mongo:4.0.2"
+#MONGO_VERSION="mongo:4.0.3"
+#MONGO_VERSION="mongo:4.0.20"
+#MONGO_VERSION="mongo:4.2"
+#MONGO_VERSION="mongo:4.4"
