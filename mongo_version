@@ -2,7 +2,8 @@
 #MONGO_VERSION="debug_mongod"
 
 # bug exists
-MONGO_VERSION="mongo:3.6.20"
+#MONGO_VERSION="mongo:3.6.20"
+MONGO_VERSION="mongo:3.6.22"
 #MONGO_VERSION="mongo:4.0.0"
 #MONGO_VERSION="mongo:4.0.1"
 
